@@ -11,3 +11,56 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  text-align: center;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 150px;
+}
+
+.color-box {
+  width: 300px;
+  height: 300px;
+  align-content: center;
+  border: 3px solid black;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 5%;
+}
+
+.color-input {
+  width: 300px;
+  height: 40px;
+  border: 3px solid black;
+  border-radius: 0.5rem;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.color-input::placeholder {
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  width: 300px;
+  min-height: 48px;
+  margin-top: 1rem;
+  font-size: 1rem;
+  border-radius: 0.50rem;
+  padding: 0.25rem;
+}
