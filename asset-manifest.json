@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/murugappan18/Simple-Color-Viewer/static/css/main.abc8944f.css",
-    "main.js": "/murugappan18/Simple-Color-Viewer/static/js/main.548e3a29.js",
-    "index.html": "/murugappan18/Simple-Color-Viewer/index.html",
-    "main.abc8944f.css.map": "/murugappan18/Simple-Color-Viewer/static/css/main.abc8944f.css.map",
-    "main.548e3a29.js.map": "/murugappan18/Simple-Color-Viewer/static/js/main.548e3a29.js.map"
+    "main.css": "/Simple-Color-Viewer/static/css/main.abc8944f.css",
+    "main.js": "/Simple-Color-Viewer/static/js/main.548e3a29.js",
+    "index.html": "/Simple-Color-Viewer/index.html",
+    "main.abc8944f.css.map": "/Simple-Color-Viewer/static/css/main.abc8944f.css.map",
+    "main.548e3a29.js.map": "/Simple-Color-Viewer/static/js/main.548e3a29.js.map"
   },
   "entrypoints": [
     "static/css/main.abc8944f.css",
