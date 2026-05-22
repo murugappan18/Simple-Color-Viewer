@@ -1,6 +1,7 @@
 import ColorBox from './ColorBox';
 import ColorInput from './ColorInput';
 import { useState } from 'react';
+import ColorPresets from './ColorPresets';
 
 function App() {
   const [color, setColor] = useState('');
@@ -21,6 +22,7 @@ function App() {
         isDarkText={isDarkText}
         setIsDarkText={setIsDarkText}
       />
+      <ColorPresets onPick={setColor} />
     </div>
   );
 }
